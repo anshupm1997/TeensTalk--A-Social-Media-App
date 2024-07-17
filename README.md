@@ -1,1 +1,1 @@
-# TeensTalk--A-Social-Media-App
+Objective: The primary objective of TeensTalk is to create a safe and supportive online community for teenagers. The platform aims to provide a space where teenagers can express their feelings, share experiences, seek advice, and connect with peers facing similar challenges. By offering various interactive features, TeensTalk will address the need for mental health support and social connectivity among teenagers.
